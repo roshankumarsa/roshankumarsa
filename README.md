@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankumarsa&label=Profile views&color=0e75b6&style=flat" alt="roshankumarsa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshankumarsa" alt="roshankumarsa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.licdn.com/dms/image/v2/D5603AQFFGYC86y_laQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1706252275144?e=1776902400&v=beta&t=5qF3ctajK8joZTGnH8IDZdiD7ihy87xPT-ADIM2YzPE?username=roshankumarsa" alt="roshankumarsa" /></a> </p>
 
 - 🔭 I'm currently working on **AI powered projects solving problems faced by my company HCLTech.**
 
